@@ -1,0 +1,19 @@
+01 Problems with numerical derivatives
+
+02 Numerical integration of the Earth's orbit around the sun: calculation 
+of the eccentricity of the orbit and the time of perihelion and aphelion over 
+a determined period of time
+
+03 Atmospheric data analysis: 1) max and min temperatures as a function of date 
+for weather stations 2) histogram of max and min temperatures for a weather station 
+3) overlapping data from two weather stations into a mean and standard deviation 
+4) 2D color histogram for differing measurements between two stations 
+5) no-atmosphere model of heating and cooling (looking at the solar flux on earth 
+assuming that there is no atmosphere)
+
+04 Ordinary differential eigenvalue problems for the hydrogen atom problem in Quantum Mechanics
+
+05 A simple Monte Carlo simulation to calculate diffusion of a single argon atom in argon gas. 
+Tasks: 1) calculation of the number of collisions/second 
+2) plotting of the distance from the origin the atom travels as a function of time 
+3) calculation of the energy distribution of the particle as it bounces
