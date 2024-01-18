@@ -1,0 +1,2 @@
+Number of collisions: 1000000
+Total time for a million collisions to occur: 2.075e-04 secondsExecution time: 1.576 seconds
